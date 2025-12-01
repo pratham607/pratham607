@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, this is Prathamesh</h1>
-<h3 align="center">"From electronics to Python — building my path in tech."</h3>
+
+<!-- 🔥 Cool Animated Heading -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Electronics+%F0%9F%94%8C+Python+%F0%9F%90%8D+ML+%F0%9F%94%AC;Building+my+path+in+tech+every+single+day." alt="Typing SVG" />
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pratham607&label=Profile%20views&color=0e75b6&style=flat" alt="pratham607" />
@@ -7,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/pratham607**
 
-- 📫 How to reach me: **kulkarniprathamesh2108@gmail.com**
+- 📫 Reach me at: **kulkarniprathamesh2108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +20,7 @@
   <a href="https://instagram.com/prathamesh_kulkarni_92_" target="blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="prathamesh_kulkarni_92_" height="30" width="40" />
+         alt="instagram" height="30" width="40" />
   </a>
 
   <!-- LinkedIn -->
@@ -25,6 +29,14 @@
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="linkedin" height="30" width="40" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/kulkarnipratha17" 
+     target="blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+         alt="hackerrank" height="30" width="40" />
   </a>
 
 </p>
@@ -69,5 +81,23 @@
   </a>
 
 </p>
+
+---
+
+<!-- 🌟 GitHub Trophies -->
+<h3 align="center">🏆 GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratham607&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+<!-- 📊 GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham607&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham607&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
 
 
